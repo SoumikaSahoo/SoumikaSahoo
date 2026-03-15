@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **DevOps and Cloud**
 
-- 📫 How to reach me **soumikasahoo2027@gmail.com/sahoosoumika247@gmail.com**
+- 📫 How to reach me **sahoosoumika247@gmail.com/soumikasahoo2027@gmail.com**
 
 - ⚡ Fun fact :**When I’m not coding, I love painting—mixing colors on a canvas feels a lot like debugging code: a little experimentation until everything finally works.**
 
