@@ -25,7 +25,6 @@
 <a href="https://linkedin.com/in/soumika sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumika sahoo" height="30" width="40" /></a>
 <a href="https://instagram.com/soumika_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumika_ss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soumika_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumika_ss" height="30" width="40" /></a>
-</p>
 <a href="https://x.com/SoumikaSahoo" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740&q=80" alt="soumika_ss" height="30" width="40" /></a>
 </p>
 
