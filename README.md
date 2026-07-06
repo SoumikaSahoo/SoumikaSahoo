@@ -28,7 +28,7 @@ Java & Spring Boot Developer | Backend Engineering Enthusiast | AI/ML & DSA | As
 </p>
 
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
  🎓 B.E. in **Computer Science & Business Systems**
 
@@ -58,7 +58,7 @@ Java & Spring Boot Developer | Backend Engineering Enthusiast | AI/ML & DSA | As
 <img src="https://komarev.com/ghpvc/?username=SoumikaSahoo&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
- # 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -100,7 +100,7 @@ Java & Spring Boot Developer | Backend Engineering Enthusiast | AI/ML & DSA | As
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -203,7 +203,7 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
 
 
 
-# 🏆 Competitive Programming
+## 🏆 Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/SoumikaSahoo/">
@@ -221,6 +221,17 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
   <b>190+ Problems Solved</b>  • Strong focus on <b>Java</b>, <b>Data Structures & Algorithms</b>, and <b>Interview Preparation</b>
 </p>
 
+## 🏆 Achievements
+
+🥇 Winner – Smart India Hackathon (Internal) 2025
+
+🥈 1st Runner-Up – THINKATHON
+
+💼 Design Lead – SOLVIFY Club
+
+💻 Tech Core Member – CIPHER Club
+
+🌐 Design Team Member – GDG NMIT
 
 ## 📊 GitHub Statistics
 
@@ -233,17 +244,7 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
   <img src="https://streak-stats.demolab.com?user=SoumikaSahoo&theme=tokyonight&hide_border=true" />
 </p>
 
-# 🏆 Achievements
 
-🥇 Winner – Smart India Hackathon (Internal) 2025
-
-🥈 1st Runner-Up – THINKATHON
-
-💼 Design Lead – SOLVIFY Club
-
-💻 Tech Core Member – CIPHER Club
-
-🌐 Design Team Member – GDG NMIT
 
 ## 📈 Contribution Graph
 
