@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://camo.githubusercontent.com/e592b32105c3dcc9b23cd9808515f8ad71fb69a517928c397631a4d1eddcfbe7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36342f65632f62633634656361326163323434643738383664356461333965626366313361372e676966)
 
 <h1 align="center">Hi there, I'm Soumika Sahoo👋</h1>
 <h3 align="center">A Bachelor of Engineering student, passionate about building scalable systems ,automating them , and leveraging Cloud technologies</h3>
