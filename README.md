@@ -1,11 +1,30 @@
-![MasterHead](https://camo.githubusercontent.com/e592b32105c3dcc9b23cd9808515f8ad71fb69a517928c397631a4d1eddcfbe7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36342f65632f62633634656361326163323434643738383664356461333965626366313361372e676966)
+![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 <h1 align="center">Hi there, I'm Soumika Sahoo👋</h1>
-<h3 align="center">A Bachelor of Engineering student, passionate about building scalable systems ,automating them , and leveraging Cloud technologies</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">
+Bachelor of Engineering Student • Java Developer • DSA Enthusiast • Aspiring Software Engineer passionate about Backend Development, Scalable Systems & Cloud Technologies
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=👋+Hi%2C+I'm+Soumika+Sahoo;Java+Developer;Data+Structures+%26+Algorithms+Enthusiast;Spring+Boot+Learner;Aspiring+Software+Engineer;Building+Scalable+Backend+Applications;Exploring+Cloud+Technologies;Always+Learning+Something+New+🚀" />
+</p>
+<p align="center">
+  <a href="mailto:sahoosoumika247@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sahoosoumika247%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
+  <a href="https://www.linkedin.com/in/soumika-sahoo-91136922a">
+    <img src="https://img.shields.io/badge/LinkedIn-Soumika%20Sahoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumikasahoo-17&label=Profile%20views&color=0e75b6&style=flat" alt="soumikasahoo-17" /> </p>
+  <a href="https://leetcode.com/u/SoumikaSahoo/">
+    <img src="https://img.shields.io/badge/LeetCode-SoumikaSahoo-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+
+ <a href="https://github.com/SoumikaSahoo">
+    <img src="https://img.shields.io/badge/GitHub-SoumikaSahoo-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 
 
 - 🔭 I’m currently working on **Data Structures and Algorithms with Java**
