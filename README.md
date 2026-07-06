@@ -32,7 +32,7 @@ Java & Spring Boot Developer | Backend Engineering Enthusiast | AI/ML & DSA | As
 
  🎓 B.E. in **Computer Science & Business Systems**
 
- 💻 Passionate about building scalable backend applications using **Java** and **Spring Boot**.
+ 💻 Passionate about building scalable backend applications using Java, Spring Boot, and modern software engineering practices.
 
  🌱 Currently exploring:
  - Spring Boot & Microservices
@@ -253,7 +253,6 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
 </p>
 
 ---
----
 
 ## 📫 Let's Connect
 
@@ -294,7 +293,6 @@ public class Soumika {
             learn();
             build();
             solveDSA();
-            shipProjects();
             improve();
         }
     }
