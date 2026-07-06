@@ -253,12 +253,34 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
 </p>
 
 ---
+---
 
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:sahoosoumika247@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/soumika-sahoo-91136922a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/SoumikaSahoo/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/SoumikaSahoo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-Always learning, always building, and always excited to solve the next challenge.
+Building scalable software, solving challenging problems, and learning something new every day.
 </p>
 
 <div align="center">
@@ -268,15 +290,13 @@ public class Soumika {
 
     public static void main(String[] args) {
 
-        while (!dreamJob) {
+        while (true) {
             learn();
             build();
             solveDSA();
             shipProjects();
             improve();
         }
-
-        System.out.println("Never Stop Learning 🚀");
     }
 }
 ```
@@ -284,10 +304,15 @@ public class Soumika {
 </div>
 
 <p align="center">
-Let's connect and build something impactful together! 💙
+💼 Open to Software Engineering Internships, Full-Time Opportunities, and Open Source Collaborations.
+</p>
+
+<p align="center">
+<i>"Code with curiosity. Build with purpose. Never stop improving."</i> 🚀
 </p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
 </p>
+
 
