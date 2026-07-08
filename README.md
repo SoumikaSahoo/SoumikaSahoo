@@ -217,9 +217,6 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
   </a>
 </p>
 
-<p align="center">
-  <b>190+ Problems Solved</b>  • Strong focus on <b>Java</b>, <b>Data Structures & Algorithms</b>, and <b>Interview Preparation</b>
-</p>
 
 # 🏆 Achievements
 
