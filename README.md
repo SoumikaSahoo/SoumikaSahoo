@@ -240,11 +240,11 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SoumikaSahoo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoumikaSahoo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SoumikaSahoo&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 # 📈 Contribution Graph
 
