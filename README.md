@@ -40,7 +40,7 @@ Java & Spring Boot Developer | Backend Engineering Enthusiast | AI/ML & DSA | As
  - Cloud Technologies
  - DevOps Fundamentals
 
- 🧩 Solving **Data Structures & Algorithms** regularly on LeetCode.
+ 🧩 Solving **Data Structures & Algorithms** regularly on Coding Platforms.
 
  🏆 Winner – Smart India Hackathon (Internal Round) 2025.
 
@@ -203,7 +203,7 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
 
 
 
-# 🏆 Competitive Programming
+# 🏆 Coding Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/SoumikaSahoo/">
