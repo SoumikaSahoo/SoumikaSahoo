@@ -209,12 +209,12 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
   <a href="https://leetcode.com/u/SoumikaSahoo/">
     <img src="https://leetcard.jacoblin.cool/SoumikaSahoo?theme=dark&font=JetBrains+Mono&ext=contest"/>
   </a>
+   <a href="https://www.geeksforgeeks.org/user/sahoosounn2h/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sahoosounn2h&theme=dark" height="220"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/SoumikaSahoo/">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+
 </p>
 
 
@@ -271,6 +271,9 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.geeksforgeeks.org/profile/sahoosounn2h" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
