@@ -201,22 +201,18 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
 
 </table>
 
+# 🏆 Coding Profiles
 
-
-# 🏆 Coding Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/SoumikaSahoo/">
-    <img src="https://leetcard.jacoblin.cool/SoumikaSahoo?theme=dark&font=JetBrains+Mono&ext=contest"/>
+    <img src="https://img.shields.io/badge/LeetCode-202%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-   <a href="https://www.geeksforgeeks.org/user/sahoosounn2h/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sahoosounn2h&theme=dark" height="220"/>
+
+  <a href="https://www.geeksforgeeks.org/profile/sahoosounn2h">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
-
-
-</p>
-
 
 # 🏆 Achievements
 
