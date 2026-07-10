@@ -203,9 +203,9 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
 
 # 🏆 Coding Profiles
 <p align="center">
-  <a href="https://leetcode.com/u/SoumikaSahoo/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+ <a href="https://leetcode.com/u/SoumikaSahoo/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
   <a href="https://www.geeksforgeeks.org/user/sahoosounn2h/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
