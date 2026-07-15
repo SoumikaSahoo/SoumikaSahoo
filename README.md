@@ -232,9 +232,6 @@ A collection of **190+ LeetCode solutions** in Java covering fundamental and adv
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoumikaSahoo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 # 📈 Contribution Graph
 
